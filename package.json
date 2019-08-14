@@ -1,0 +1,21 @@
+{
+  "name": "task2obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "@hapi/joi": "^15.1.0",
+    "crypto-js": "^3.1.9-1",
+    "knex": "^0.19.1",
+    "mysql": "^2.17.1",
+    "objection": "^1.6.9",
+    "underscore": "^1.9.1"
+  }
+}
